@@ -1,14 +1,14 @@
-**NOTE**: It really bugged me that this section was left blank (by me - Mr TakingFullResponsibility over here) for so long 
-so I used Github's suggestions for what to put here.
+**NOTE**: It really bugged me that this section was left blank (by me - Mr TakingFullResponsibility over here) 
+for so long so I used Github's suggestions for what to put here.
 
 
 * Dumela, I’m DevBeatDad
 
-       I understand your want and/or near need to know why I went for this moniker, so I hope this will satiate that 
-       desire:
+       I understand your want and/or near need to know why I went for this moniker, so I hope this will satiate 
+       that desire:
 
-       It's personal and will likely be changed to something similar but different in an arbitrary but significant 
-       way in future. (Ha ha)
+       It's personal and will likely be changed (by me) to something similar but different in an arbitrary but 
+       significant way in future. (Ha ha)
 
 * I’m interested in:
   
@@ -19,7 +19,8 @@ so I used Github's suggestions for what to put here.
       of said signal/s - in fact, the digital part of sound engineering wouldn't exist without computer science. 
       I hope my appreciation for both fields is at _least_ palpable)
 
-      * Social Dynamics (animals, especially their interactions with each other, fascinate me - humans are no different)
+      * Social Dynamics (animals, especially their interactions with each other, fascinate me - humans are 
+      * no different)
  
 * I’m currently learning:
   
